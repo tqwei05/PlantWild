@@ -13,10 +13,8 @@ article_header:
 
 
 **PlantWild Dataset** 
-Current plant disease classification models excel in identifying diseased images under controlled, laboratory conditions. However, their performance significantly declines when applied to real-world, in-the-wild images. 
-We observed that in-the-wild plant images often have a small inter-class discrepancy, meaning different diseases may look similar, and a large intra-class variance, where the same disease can appear quite different.
-To address this, we propose an in-the-wild multimodal plant disease recognition dataset. This dataset, the largest of its kind, includes numerous disease classes and provides text descriptions for each disease. 
-These text descriptions enrich the dataset with valuable textual information, aiding in tackling the challenges of small inter-class discrepancy and large intra-class variance in real-world disease classification.
+
+Existing plant disease classification models have achieved remarkable performance in recognizing in-laboratory diseased images. However, their performance often significantly degrades in classifying in-the-wild images. Furthermore, we observed that in-the-wild plant images may exhibit similar appearances across various diseases (i.e., small inter-class discrepancy) while the same diseases may look quite different (i.e., large intra-class variance). Motivated by this observation, we propose an in-the-wild multimodal plant disease recognition dataset that contains the largest number of disease classes but also text-based descriptions for each disease.
 
 
 
