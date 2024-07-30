@@ -12,7 +12,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Access
+      en      : &EN       Data Access
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
