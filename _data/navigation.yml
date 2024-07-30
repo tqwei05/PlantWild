@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Introdution
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -12,7 +12,18 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Access
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+
+      # @end locale config
+    url: /about.html
+
+    - titles:
+      # @start locale config
+      en      : &EN       Baseline
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
