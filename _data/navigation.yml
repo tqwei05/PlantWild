@@ -12,7 +12,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Baseline
+      en      : &EN       Dataset
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
