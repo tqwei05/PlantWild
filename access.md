@@ -17,7 +17,7 @@ sidebar:
   <img width=800 src="git_figures/statistics.png"/>
 </div>
 
-The PlantWild dataset is accessible through [Google Drive Download Link.](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
+The PlantWild dataset is accessible through [Google Drive Download Link](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
 
 
 ## Copyright:
