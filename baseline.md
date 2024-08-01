@@ -16,5 +16,5 @@ article_header:
 
 Code of our baseline MVPDR is available through [MVPDR](https://github.com/tqwei05/MVPDR)
 <div align="center">
-  <img width=1000 src="baseline.png"/>
+  <img width=400 src="baseline.png"/>
 </div>
