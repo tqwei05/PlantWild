@@ -1,6 +1,8 @@
 
 ---
+layout: page
 title: Why do we need the PlantWild dataset?
+permalink: /why
 article_header:
   type: cover
   theme: dark
