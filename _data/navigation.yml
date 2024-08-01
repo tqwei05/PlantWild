@@ -61,8 +61,8 @@ baseline-en:
       - title:  Workflow
         url:    /baseline
       - title:  Training-required results
-        url:    /training_required
+        url:    /training-required
       - title:  Training-free results
-        url:    /training_free
+        url:    /training-free
 
 

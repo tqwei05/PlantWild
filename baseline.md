@@ -29,6 +29,3 @@ MVPDR can not only classify diseases but also recognize diseases in few-shot or 
   <img width=600 src="baseline.png"/>
 </div>
 
-If you find our work helpful, don't forget to give me a star. :star2:
-
-[![Star This Project](https://img.shields.io/github/stars/tqwei05/MVPDR.svg?label=Stars&style=social)](https://github.com/tqwei05/MVPDR/)
