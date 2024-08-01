@@ -5,6 +5,8 @@ permalink: /why
 article_header:
   type: cover
   theme: dark
+aside:
+  toc: false
 ---
 
 **Plant disease recognition** is essential in the agriculture field. Crops often face threats from diseases caused by bacteria, pests, and viruses. According to The Food and Agriculture Organization of the United Nations, annual losses can reach about 220 billion dollars due to plant diseases. Accurate recognition of plant diseases is essential to mitigate damage and prevent the spread of these diseases.

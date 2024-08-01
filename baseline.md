@@ -6,6 +6,8 @@ key: docs-baseline
 article_header:
   type: cover
   theme: dark
+aside:
+  toc: false
 ---
 
 
