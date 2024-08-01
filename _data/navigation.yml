@@ -43,3 +43,15 @@ header:
       # @end locale config
     url: /baseline
 
+
+dataset-en:
+  - title:      Data Download
+    children:
+      - title:  PlantWild_v1
+        url:    /access
+      - title:  PlantWild_v1
+        url:    /access_v2
+      - title:  Segmentation dataset
+        url:    /access_segmentation
+
+
