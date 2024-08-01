@@ -13,7 +13,9 @@ sidebar:
 ---
 
 
-We have further refined PlantWild and added new types of diseases. In this version, the number of classes has been expanded to 115.
+We invited experts in the field of agriculture to refine our dataset.
+We also added images of new types of diseases according to experts' suggestions.
+The obtained dataset, PlantWild_v2, has enhanced data reliability and the number of classes has been expanded to 115.
 This version can be accessed through [PlantWild_v2]().
 
 
