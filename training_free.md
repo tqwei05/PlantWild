@@ -18,7 +18,7 @@ sidebar:
 
 
 <div align="center">
-  <img width=800 src="git_figures/training_free.png"/>
+  <img width=1050 src="git_figures/training_free.png"/>
 </div>
 
 
