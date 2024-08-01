@@ -30,7 +30,7 @@ header:
       en-AU   : *EN
 
       # @end locale config
-    url: /about
+    url: /access
 
   - titles:
       # @start locale config
