@@ -18,5 +18,8 @@ On top of the plant disease recognition dataset PlantWild, we present the segmen
 
 The annotations will be released soon.
 
+<div align="center">
+  <img width=600 src="seg_samples.png"/>
+</div>
 
 
