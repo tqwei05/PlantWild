@@ -48,7 +48,7 @@ header:
 dataset-en:
   - title:      Data Download
     children:
-      - title:  PlantWild_v1
+      - title:  PlantWild
         url:    /access
       - title:  PlantWild_v2
         url:    /access_v2

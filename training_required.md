@@ -18,7 +18,7 @@ sidebar:
 
 
 <div align="center">
-  <img width=800 src="plantwild.jpg"/>
+  <img width=800 src="git_figures/training_required.png"/>
 </div>
 
 
