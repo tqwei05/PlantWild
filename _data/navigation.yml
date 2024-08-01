@@ -50,7 +50,7 @@ dataset-en:
     children:
       - title:  PlantWild_v1
         url:    /access
-      - title:  PlantWild_v1
+      - title:  PlantWild_v2
         url:    /access_v2
       - title:  Segmentation dataset
         url:    /access_segmentation

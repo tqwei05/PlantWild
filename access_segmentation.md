@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Access
-permalink: /access
+permalink: /access_segmentation
 key: docs-access
 article_header:
   type: cover
