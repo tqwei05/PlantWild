@@ -204,9 +204,11 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
       layout: article
+      nav_key: dataset
+      sidebar:
+        nav: dataset-en
       sharing: true
       license: true
       aside:
