@@ -12,7 +12,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       The necessity of PlantWild
+      en      : &EN       Contribution
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
