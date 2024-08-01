@@ -6,7 +6,6 @@ key: docs-baseline
 article_header:
   type: cover
   theme: dark
-
 ---
 
 
@@ -14,7 +13,7 @@ article_header:
 
 
 
-Code of our baseline MVPDR is available through [MVPDR](https://github.com/tqwei05/MVPDR). 
+Code of our baseline MVPDR is available through [MVPDR](https://github.com/tqwei05/MVPDR).
 
 If you find our work helpful, don't forget to give me a star. :star2:
 

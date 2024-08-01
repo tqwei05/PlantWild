@@ -6,7 +6,10 @@ key: docs-access
 article_header:
   type: cover
   theme: dark
-
+aside:
+  toc: true
+sidebar:
+  nav: dataset-en
 ---
 
 

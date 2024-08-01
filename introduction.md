@@ -6,7 +6,6 @@ key: docs-introduction
 article_header:
   type: cover
   theme: dark
-
 ---
 
 
