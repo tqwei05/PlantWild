@@ -1,8 +1,8 @@
 ---
 layout: page
 title: PlantWild Dataset
-permalink: /training-required
-key: docs-training-required
+permalink: /training-free
+key: docs-training-free
 article_header:
   type: cover
   theme: dark

@@ -8,6 +8,8 @@ article_header:
   theme: dark
 aside:
   toc: false
+sidebar:
+  nav: dataset-en
 ---
 
 
