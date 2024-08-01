@@ -204,7 +204,7 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
+#      type: posts
     values:
       layout: article
       sharing: true
@@ -214,19 +214,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-  ## dataset
-  - scope:
-      path: ""
-    values:
-      layout: article
-      nav_key: access
-      sidebar:
-        nav: dataset-en
-      license: true
-      aside:
-        toc: true
-      show_edit_on_github: true
-      show_date: false
+
 
 
 ## => Plugins
