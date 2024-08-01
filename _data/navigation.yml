@@ -12,6 +12,17 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Why do we need PlantWild
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+
+      # @end locale config
+    url: /why
+
+  - titles:
+      # @start locale config
       en      : &EN       Data Access
       en-GB   : *EN
       en-US   : *EN
@@ -19,7 +30,7 @@ header:
       en-AU   : *EN
 
       # @end locale config
-    url: /about.html
+    url: /about
 
   - titles:
       # @start locale config
@@ -30,5 +41,5 @@ header:
       en-AU   : *EN
 
       # @end locale config
-    url: /baseline.html
+    url: /baseline
 
