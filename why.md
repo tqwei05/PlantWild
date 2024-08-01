@@ -20,8 +20,4 @@ Recently, deep learning methods have achieved promising performance on in-labora
 
 
 
-If you think the work is helpful, don't forget to give me a star. :star2:
-
-[![Star This Project](https://img.shields.io/github/stars/tqwei05/MVPDR.svg?label=Stars&style=social)](https://github.com/tqwei05/MVPDR/)
-
 ---
