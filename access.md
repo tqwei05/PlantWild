@@ -14,7 +14,7 @@ sidebar:
 
 **Data Statistics of PlantWild**
 <div align="center">
-  <img width=800 src="statistics.png"/>
+  <img width=800 src="git_figures/statistics.png"/>
 </div>
 
 The PlantWild dataset is accessible through [PlantWild_v1](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
