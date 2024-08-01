@@ -15,6 +15,7 @@ sidebar:
 
 
 On top of the plant disease recognition dataset PlantWild, we present the segmentation annotations focused on diseased parts for images.
+
 The annotations will be released soon.
 
 
