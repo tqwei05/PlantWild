@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Access
+title: Segmentation annotations
 permalink: /access_segmentation
 key: docs-access
 article_header:
