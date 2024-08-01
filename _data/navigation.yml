@@ -52,7 +52,7 @@ dataset-en:
         url:    /access
       - title:  PlantWild_v2
         url:    /access_v2
-      - title:  Segmentation dataset
+      - title:  Segmentation annotations
         url:    /access_segmentation
 
 baseline-en:
