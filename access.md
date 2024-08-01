@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Access
+title: PlantWild
 permalink: /access
 key: docs-access
 article_header:
