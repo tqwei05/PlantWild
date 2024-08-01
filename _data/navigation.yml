@@ -55,4 +55,14 @@ dataset-en:
       - title:  Segmentation dataset
         url:    /access_segmentation
 
+baseline-en:
+  - title:      MVPDR
+    children:
+      - title:  Workflow
+        url:    /baseline
+      - title:  Training-required results
+        url:    /training_required
+      - title:  Training-free results
+        url:    /training_free
+
 
