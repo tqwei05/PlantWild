@@ -20,5 +20,7 @@ The obtained dataset, PlantWild_v2, has enhanced data reliability and the number
 This version can be accessed through [Google Drive Download Link](https://drive.google.com/file/d/1wJEMRaNNuYGDqq2IQraQVtkCRHTOIDLD/view?usp=drive_link).
 
 
+## Copyright:
 
+Our dataset follows the copyright [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
