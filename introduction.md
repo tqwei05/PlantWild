@@ -15,12 +15,12 @@ aside:
 
 
 
-Existing deep-learning methods have achieved remarkable performance in recognizing in-laboratory plant diseased images. However, their performance often significantly degrades in classifying in-the-wild images.
+Existing deep-learning methods have achieved remarkable performance in recognizing in-laboratory plant disease images. However, their performance often significantly degrades in classifying in-the-wild images.
 Furthermore, we observed that in-the-wild plant images may exhibit similar appearances across various diseases (i.e., small inter-class discrepancy) while the same diseases may look quite different (i.e., large intra-class variance).
 Motivated by this observation, we propose an in-the-wild multimodal plant disease recognition dataset that contains the largest number of disease classes but also text-based descriptions for each disease.
 
 
-Our proposed dataset can be regarded as an ideal testbed for evaluating disease recog- nition methods in the real world.
+Our proposed dataset can be regarded as an ideal testbed for evaluating disease recognition methods in the real world. The PlantWild dataset is accessible through [Google Drive Download Link](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
 
 <div align="center">
   <img width=800 src="plantwild.jpg"/>
