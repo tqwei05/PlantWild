@@ -23,7 +23,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Data Access
+      en      : &EN       Download
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
