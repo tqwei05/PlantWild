@@ -12,7 +12,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Contribution
+      en      : &EN       Novelty
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
