@@ -20,7 +20,7 @@ The obtained dataset, PlantWild_v2, has enhanced data reliability and the number
 This version can be accessed through:
 
 * [Google Drive Download Link](https://drive.google.com/file/d/1wJEMRaNNuYGDqq2IQraQVtkCRHTOIDLD/view?usp=drive_link)
-* [UQRDM](https://cloud.rdm.uq.edu.au/index.php/s/8PyLeJtPdcS6EsB)
+* [UQRDM](https://cloud.rdm.uq.edu.au/index.php/s/8PyLeJtPdcS6EsB) (password: plantwildv2)
 
 
 ## Copyright:
