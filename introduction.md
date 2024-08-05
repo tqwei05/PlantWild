@@ -20,7 +20,7 @@ Furthermore, we observed that in-the-wild plant images may exhibit similar appea
 Motivated by this observation, we propose an in-the-wild multimodal plant disease recognition dataset that contains the largest number of disease classes but also text-based descriptions for each disease.
 
 
-Our proposed dataset can be regarded as an ideal testbed for evaluating disease recognition methods in the real world. The PlantWild dataset is accessible through [Google Drive Download Link](https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link).
+Our proposed dataset can be regarded as an ideal testbed for evaluating disease recognition methods in the real world. The PlantWild dataset is accessible through [Download Page](https://tqwei05.github.io/PlantWild/access).
 
 <div align="center">
   <img width=800 src="plantwild.jpg"/>
