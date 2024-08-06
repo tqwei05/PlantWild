@@ -234,15 +234,32 @@ Therefore, MVPDR can not only classify diseases but also recognize diseases in f
 <div id="data" style="border-top:1px solid gray;">
   <h2>Download</h2>
   <h3>PlantWild</h3>
-  <p>The PlantWild dataset is accessible through:</p>
+  <p>The PlantWild dataset is accessible through:
   <ul>
   <li><a href="https://drive.google.com/file/d/1s7FOoztTHvO03yVfw75pQY_kzZqvAckD/view?usp=drive_link">Google Drive Download Link</a></li>
-  <li><a href="https://cloud.rdm.uq.edu.au/index.php/s/5iTzoyby9Xobmq2">UQRDM</a></li>
+  <li><a href="https://cloud.rdm.uq.edu.au/index.php/s/5iTzoyby9Xobmq2">UQRDM</a> (Password: plantwildv1)</li>
+  </ul></p>
+<hr />
+  <h3>PlantWild_v2</h3>
+  <p>We invited experts in the field of agriculture to refine our dataset.
+We also added images of new types of diseases according to experts' suggestions.
+The obtained dataset, PlantWild_v2, has enhanced data reliability and the number of classes has been expanded to 115.
+<br />
+This version can be accessed through:
+<ul>
+  <li><a href="https://drive.google.com/file/d/1wJEMRaNNuYGDqq2IQraQVtkCRHTOIDLD/view?usp=drive_link">Google Drive Download Link</a></li>
+  <li><a href="https://cloud.rdm.uq.edu.au/index.php/s/8PyLeJtPdcS6EsB">UQRDM</a> (Password: plantwildv1)</li>
+  </ul></p>
+<hr />
+<h3>Segmentation annotations</h3>
+  <p>On top of the plant disease recognition dataset PlantWild, we present the segmentation annotations focused on diseased parts for images.
 
-  </ul>
+The annotations will be released soon.</p>
 
-<p>CLIP encoders extract features from images and text for each category and then multiple prototypes are constructed by grouping visual features. Given a test image, both the visual and textual prototypes can be used for classification.
-Therefore, MVPDR can not only classify diseases but also recognize diseases in few-shot or training-free scenarios.</p>
+<div align="left">
+  <img width=600 src="seg_samples.png"/>
+</div>
+
 
 </div>
 
