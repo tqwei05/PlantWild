@@ -8,7 +8,7 @@ header:
       en-AU   : *EN
 
       # @end locale config
-    url: /introduction
+    url: /index.html
 
   - titles:
       # @start locale config
