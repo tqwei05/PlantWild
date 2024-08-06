@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Introduction
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -33,16 +33,16 @@ header:
     url: /access
     key: dataset
 
-  - titles:
-      # @start locale config
-      en      : &EN       Baseline
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  # - titles:
+  #     # @start locale config
+  #     en      : &EN       Baseline
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
 
-      # @end locale config
-    url: /baseline
+  #     # @end locale config
+  #   url: /baseline
 
 
 dataset-en:
