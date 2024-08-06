@@ -10,16 +10,16 @@ header:
       # @end locale config
     url: /index.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Novelty
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  # - titles:
+  #     # @start locale config
+  #     en      : &EN       Novelty
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
 
-      # @end locale config
-    url: /why
+  #     # @end locale config
+  #   url: /why
 
   - titles:
       # @start locale config
