@@ -3,6 +3,148 @@ layout: home
 # articles:
 #   excerpt_type: html
 ---
+<html>
+<head>
+<title>Imagic: Text-Based Real Image Editing with Diffusion Models</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@200&display=swap" rel="stylesheet"> 
+<style type="text/css">
+.content {
+    width:930px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+}
+h1 {
+    font-weight: 600;
+}
+table.authors {
+    width:90%;
+    text-align:center;
+}
+table.authors > tr > td, table.authors > tbody > tr > td {
+    width:25%;
+}
+.authors a, .lnk {
+    color:black;
+    text-decoration:underline;
+}
+.authors a:hover, .lnk:hover {
+    color:gray;
+    text-decoration:underline;
+}
+.btn {
+    color:black;
+    text-decoration:none;
+}
+.btn:hover {
+    color:gray;
+    text-decoration:none;
+}
+table.demo1 {
+    width:90%;
+    text-align:center;
+}
+.demo1 img {
+    width:300px;
+}
+td.prompt {
+    width:100%;
+    text-align:center;
+    font-family: monospace;
+    font-size:150%;
+}
+td.prompt a {
+    color:#ddd;
+    text-decoration:none;
+}
+td.prompt a:hover, td.prompt a.active {
+    color:black;
+    text-decoration:none;
+}
+.img-stack {
+    position:relative;
+    display: block;
+    width:300px;
+    height:300px;
+}
+.img-stack img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+}
+.img-stack img.active {
+    z-index: 1;
+}
+.img-stack .overlay {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+    transition: opacity .2s;
+    z-index: 2;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: white;
+}
+.carousel {
+    position:relative;
+    width:650px;
+    height:385px;
+    overflow:hidden;
+}
+.carousel > table {
+    position:absolute;
+    top: 0px;
+    transition: left 1s;
+    width:650px;
+}
+.carousel_table td {
+    text-align:center;
+}
+.carousel_table td:nth-child(2) {
+    font-size:150%;
+}
+pre {
+    background-color:#eee;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 10px;
+white-space: break-spaces;
+width:80%;
+text-align:left;
+}
+td.gif {
+    width: 33%;
+    font-family: monospace;
+    font-size: 120%;
+}
+.dl_link {
+    display: inline-block;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.dl_link, .dl_link td {
+    color: black;
+    text-decoration: none;
+    font-size: 120%;
+}
+.dl_link, .dl_link table {
+    border-radius: 5px;
+    background-color: none;
+}
+.dl_link:hover, .dl_link:hover * {
+    color: #404040 !important;
+    background-color: #d9d9d9 !important;
+}
+@media only screen and (max-width: 930px) {
+    .content { width:100% !important; }
+}
+</style>
 <center><div class="content">
       <h1>Benchmarking In-the-Wild Multimodal Plant Disease Recognition and A Versatile Baseline</h1>
       <table class="authors">
