@@ -19,6 +19,9 @@ layout: home
 h1 {
     font-weight: 600;
 }
+code {
+    font-size: 120%;
+}
 table.authors {
     width:90%;
     text-align:center;
@@ -194,10 +197,8 @@ It models text descriptions and visual data through multiple prototypes and can 
 <br />
 <br />
 <div align="left">
-  <img width=600 src="baseline.png"/>
+  <img width=550 src="baseline.png"/>
 </div>
-<br />
-<br />
 
 CLIP encoders extract features from images and text for each category and then multiple prototypes are constructed by grouping visual features. Given a test image, both the visual and textual prototypes can be used for classification.
 Therefore, MVPDR can not only classify diseases but also recognize diseases in few-shot or training-free scenarios.</p>
