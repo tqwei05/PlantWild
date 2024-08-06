@@ -1,14 +1,14 @@
-header:
-  - titles:
-      # @start locale config
-      en      : &EN       Home
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+# header:
+#   - titles:
+#       # @start locale config
+#       en      : &EN       Home
+#       en-GB   : *EN
+#       en-US   : *EN
+#       en-CA   : *EN
+#       en-AU   : *EN
 
-      # @end locale config
-    url: /index.html
+#       # @end locale config
+#     url: /index.html
 
   # - titles:
   #     # @start locale config
@@ -21,17 +21,17 @@ header:
   #     # @end locale config
   #   url: /why
 
-  - titles:
-      # @start locale config
-      en      : &EN       Download
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
+  # - titles:
+  #     # @start locale config
+  #     en      : &EN       Download
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
 
-      # @end locale config
-    url: /access
-    key: dataset
+  #     # @end locale config
+  #   url: /access
+  #   key: dataset
 
   # - titles:
   #     # @start locale config
